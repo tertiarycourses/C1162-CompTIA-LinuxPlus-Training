@@ -65,7 +65,7 @@ Full tool list with install commands: [labs/tools.md](labs/tools.md). Lab refere
 ```
 .
 ├── courseware/                  # Course deliverables
-│   ├── PPT-CompTIA-Linux-Plus-XK0-006.pptx   # 517-slide training deck (+ PDF)
+│   ├── PPT-CompTIA-Linux-Plus-XK0-006-v1.pptx   # 517-slide training deck (+ PDF)
 │   ├── LP-CompTIA-Linux-Plus-XK0-006.docx    # 5-day Lesson Plan (+ PDF)
 │   └── LG-CompTIA-Linux-Plus-XK0-006.docx    # Learner Guide (+ PDF)
 ├── labs/                        # 30 hands-on labs — one folder per lab
